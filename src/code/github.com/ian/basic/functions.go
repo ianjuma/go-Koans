@@ -66,6 +66,12 @@ func foo() (r int) {
     return
 }
 
+// recursive
+func naming() {
+    fmt.Println(12)
+    naming()
+}
+
 //returning multiple values
 func multiple(x int, y float64) (int , float64) {
     return x, y
