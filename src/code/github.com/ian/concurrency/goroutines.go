@@ -21,5 +21,6 @@ func main() {
     go simulateEvent("Long jump", 12)
     go simulateEvent("High Jump", 2)
 
-    time.Sleep(12 * 1e9) // wait for go-routines to finish
+    time.Sleep(17 * 1e9) // wait for go-routines to finish
+    // increase time-stamp to take longer, to see the events
 }
