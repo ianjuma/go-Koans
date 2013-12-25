@@ -7,6 +7,7 @@ import (
 )
 
 
+// events + run
 func simulateEvent(name string, timeInSecs float64) {
     fmt.Println("Started", name, ": Should take", timeInSecs, "seconds.")
     time.Sleep(timeInSecs * 2e3)
@@ -14,6 +15,7 @@ func simulateEvent(name string, timeInSecs float64) {
 }
 
 
+// goroutines launch + main on separate goroutine
 func main() {
     go simulateEvent("100 Sprint", 30)
     go simulateEvent("Long jump", 12)
