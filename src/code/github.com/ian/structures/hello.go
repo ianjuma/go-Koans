@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-    go fmt.Println("Hey, It's Go")
+    go fmt.Println("Hey, It's Go an intro to data structures with go")
 }
