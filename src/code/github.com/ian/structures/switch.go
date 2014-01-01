@@ -1,3 +1,6 @@
+// switch + go's  deffreds and `exception` handling
+// gos exception control - panic, err in return statements
+
 package main
 
 import (
