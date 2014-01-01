@@ -1,3 +1,6 @@
+// sample go xml parsing
+// attched Castle xml
+
 package main
 
 
