@@ -5,6 +5,7 @@
 - hashmaps - dictionary, hashtable
 - structs and lists (values)
 - lists and slicing
+- interfaces and conditional structures
 
 
 ###maps
