@@ -1,3 +1,7 @@
+// connecting to a mongoDB database
+// simple ping test + error handling
+// with panics and a deffered close
+
 package main
 
 import (
