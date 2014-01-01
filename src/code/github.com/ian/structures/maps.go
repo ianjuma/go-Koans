@@ -1,3 +1,5 @@
+// simple key value pairs
+
 package main
 
 import "fmt"
