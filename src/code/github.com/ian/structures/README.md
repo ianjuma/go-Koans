@@ -3,6 +3,7 @@
 - sets
 - lists
 - hashmaps - dictionary, hashtable
+- structs and lists (values)
 
 
 ###maps
