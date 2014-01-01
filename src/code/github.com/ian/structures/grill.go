@@ -1,3 +1,6 @@
+// grill game - ping pong
+// using goroutines to simulate game events
+
 package main
 
 import (
