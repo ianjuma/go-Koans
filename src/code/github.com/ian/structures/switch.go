@@ -28,7 +28,6 @@ func main() {
 
     }
 
-
     switch time.Now().Weekday() {
         case time.Saturday, time.Sunday, time.Friday:
             fmt.Println("Root me a Beer!")
