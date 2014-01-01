@@ -1,3 +1,5 @@
+// methods and member objects
+
 package main
 
 import (
