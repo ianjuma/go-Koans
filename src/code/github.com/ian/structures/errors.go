@@ -1,3 +1,6 @@
+// error control - handling + defreds and panics
+// go langs way of exception handling
+
 package main
 
 import (
