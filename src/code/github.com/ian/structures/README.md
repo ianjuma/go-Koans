@@ -4,6 +4,7 @@
 - lists
 - hashmaps - dictionary, hashtable
 - structs and lists (values)
+- lists and slicing
 
 
 ###maps
