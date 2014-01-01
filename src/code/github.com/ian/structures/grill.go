@@ -11,6 +11,7 @@ import (
 func Ticker() {
     go func() {
         fmt.Println("Goroutine -> Ticker")
+        time.Sleep(500)
     }()
 }
 
@@ -20,6 +21,7 @@ func Customer() {
             return x+y
         }
         fmt.Println(some(10, 23))
+        time.Sleep(500)
     }()
 }
 
