@@ -4,12 +4,10 @@ import (
     "fmt"
     )
 
-/*
 func ExpensiveComputation(c chan float64) {
     x := 2.345 / 543.3456
     c <- x
 }
-*/
 
 func GetChanell() {
     channel := make(chan float64)
