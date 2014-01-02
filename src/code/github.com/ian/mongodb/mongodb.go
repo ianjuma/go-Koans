@@ -1,4 +1,4 @@
-// connecting to a mongoDB database
+// connecting to a mongoDB database with mgo complete API
 // simple ping test + error handling
 // with panics and a deffered close
 
