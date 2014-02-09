@@ -10,5 +10,5 @@ func hello(val string) string {
 
 func main() {
     web.Get("/(.*)", hello)
-    web.Run("0.0.0.0:9999")
+    web.Run("0.0.0.0:8000")
 }
