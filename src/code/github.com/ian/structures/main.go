@@ -13,12 +13,6 @@ func foo() {
 
 
 func main() {
-
-    // basic Printing -- comment
-    /*
-
-    */
-
     foo()
     fmt.Println(hello("Juma"))
 
